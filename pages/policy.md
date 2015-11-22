@@ -6,7 +6,7 @@ description: "Policy"
 ---
 ## **Policy**
 
-Agencies are required to establish a comprehensive approach to improve the acquisition and management of their information resources, by: performing information resources management activities in an efficient, effective, economical, secure, and privacy-enhancing manner; focusing information resources planning to support their strategic missions; implementing a IT investment management process that links to and supports budget formulation and execution; and rethinking and restructuring the way work is performed before investing in new information systems.
+Agencies are required to have, and continually improve, a comprehensive approach to improve the acquisition and management of their information resources, by: performing information resources management activities in an efficient, effective, economical, secure, and privacy-enhancing manner; focusing information resources planning to support their strategic missions; implementing a IT investment management process that links to and supports budget formulation and execution; and rethinking and restructuring the way work is performed before investing in new information systems.
 
 #### **a. Planning and Budgeting**
 
