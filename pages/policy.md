@@ -96,7 +96,7 @@ Agencies shall:
 
 3) Ensure the Chief Human Capital Officer (CHCO) and CIO jointly establish an agency-wide critical element (or elements) to be included in all bureau CIOs' performance evaluations. In addition, the CIO shall identify "key bureau CIOs" and provide input to the rating official for at least those "key bureau CIOs" at the time of the initial summary rating and for any required progress reviews. The rating official will consider the input from the CIO when determining the initial summary rating and discuss it with the bureau CIO during progress reviews.
 
-4) Ensure the CIO is involved in the recruitment and approves the selection of any new bureau CIO (includes bureau leadership with CIO duties but not title). The title and responsibilities of current bureau CIOs may be designated or transferred to other agency personnel by the agency head or his or her designee as appropriate, and such decisions may take into consideration recommendations from the agency CIO.
+4) Ensure the CIO is involved in the recruitment, selection, and approval of any new bureau CIO (includes bureau leadership with CIO duties but not title). The title and responsibilities of current bureau CIOs may be designated or transferred to other agency personnel by the agency head or his or her designee as appropriate, and such decisions may take into consideration recommendations from the agency CIO.
 
 5) Ensure the CIO, CHCO, and other hiring managers capitalize on flexible hiring authorities for specialized positions, as established by the Office of Personnel Management.
 
