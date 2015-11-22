@@ -174,9 +174,9 @@ Although this section includes requirements for protecting Federal information r
 
 To promote proper safeguards, agencies shall:
 
- a) Designate a senior agency official for privacy (SAOP) who has overall agency-wide responsibility and accountability for developing, implementing, and maintaining an agency-wide governance and privacy program to ensure compliance with all applicable statutes, regulations, and policies regarding the collection, use maintenance, dissemination, and disposal of PII by programs and information systems;
+ a) Designate a senior agency official for privacy (SAOP) who has overall agency-wide responsibility and accountability for developing, implementing, and maintaining an agency-wide governance and privacy program to ensure compliance with all applicable statutes, regulations, and policies regarding the collection, use maintenance, dissemination, and disposal of personally identifiable information (PII) by programs and information systems;
  
- b) Limit the collection of information such as personally identifiable information, to that which is legally authorized and reasonably deemed necessary for the proper performance of agency functions;
+ b) Limit the collection of information such as PII, to that which is legally authorized and reasonably deemed necessary for the proper performance of agency functions;
  
  c) Only maintain personally identifiable information that is relevant and reasonably deemed necessary to accomplish a legally authorized purpose;
  
