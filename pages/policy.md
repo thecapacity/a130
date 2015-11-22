@@ -70,7 +70,7 @@ In support of agency missions and business needs, and in coordination with progr
   
   c) There are agency-wide policies and procedures for conducting investment reviews, operational analyses, or other applicable performance reviews to evaluate IT resources, including projects in development and ongoing activities;
   
-  d) Data and information needs are met through agency-wide data governance policies which clearly establish the roles, responsibilities, and processes by which agency personnel manage information as an asset and the relationships between IT strategy, data strategy, and agency programs and business objectives; and
+  d) Data and information needs are met through agency-wide data governance policies that clearly establish the roles, responsibilities, and processes by which agency personnel manage information as an asset and the relationships between technology, data, and agency programs, strategies, and business objectives; and
   
   e) All IT systems and services operate only vendor-supported solutions, and planning and budgeting activities incorporate migration planning and resourcing to accomplish this requirement.
 
