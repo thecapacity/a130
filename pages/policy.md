@@ -10,7 +10,7 @@ Agencies are required to establish a comprehensive approach to improve the acqui
 
 #### **a. Planning and Budgeting**
 
-Agencies shall establish agency-wide planning and budgeting processes in accordance with OMB guidance. As discussed below, important components of planning and budgeting consist of developing and maintaining an Agency Information Strategy, as well as ensuring effective collaboration between agency leadership on budget activities.
+Agencies shall establish agency-wide planning and budgeting processes in accordance with OMB guidance. As discussed below, important components of planning and budgeting consist of developing and maintaining a strategy for managing and maintaining their information resources, as well as ensuring effective collaboration between agency leadership on budget activities.
 
 **1) Strategic Planning**
 
