@@ -32,7 +32,7 @@ to mission needs, priorities, or goals. As part of the planning and maintenance 
 
 **2) Business Continuity Planning**
 
-Agencies shall develop a Business Continuity Plan.<sup id="fnr4"><a href="#fn4">4</a></sup> A Business Continuity plan to continue agency operations during times of services disruption is essential. Therefore, recovery strategies should be developed so services and/or access can be restored in time to meet the mission needs. Manual workarounds should be part of the plan so business can continue while information systems are being restored. For additional information on business continuity planning, refer to [Ready.gov](http://www.ready.gov).
+Agencies shall develop a Business Continuity Plan.<sup id="fnr4"><a href="#fn4">4</a></sup> A Business Continuity plan to continue agency operations during times of disruption is essential. Therefore, continuity strategies should be developed so services and/or access can be restored in time to meet the mission needs. Manual workarounds should be part of the plan so business can continue while information systems are being restored. For additional information refer to [Ready.gov](http://www.ready.gov).
 
 **3) Planning, Programming, and Budgeting**
 
