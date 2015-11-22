@@ -182,7 +182,7 @@ To promote proper safeguards, agencies shall:
  
  d) Limit the disclosure of personally identifiable information to that which is legally authorized, and impose appropriate conditions on use where a continuing obligation to ensure the confidentiality of the information exists;
  
- e) Comply with all applicable requirements of the Privacy Act<sup id="fnr9"><a href="#fn9">9</a></sup> and ensure that system of records notices are published, revised, and rescinded, as required;
+ e) Comply with all applicable requirements of the Privacy Act<sup id="fnr9"><a href="#fn9">9</a></sup> and ensure that system of records notices are published, revised, and rescinded, as required, while continuing to promove secure sharing of data as appropriate;
  
  f) Ensure that all records with personally identifiable information are maintained in accordance with applicable records retention or disposition schedules approved by the National Archives and Records Administration;
  
