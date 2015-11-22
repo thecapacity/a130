@@ -107,23 +107,23 @@ Agencies shall:
 Agencies shall:
   a) Consistent with applicable Federal acquisition requirements, make use of adequate competition, analyze risks (including supply chain risks), associated with potential awards, allocate risk between government and contractor, and maximize return on investment (ROI) when acquiring information technology;
   
-  b) Conduct definitive technical, cost, and risk analyses of alternative design implementations, including consideration of the full lifecycle costs of IT products and services, including but not limited to planning, analysis, design, implementation, sustainment, maintenance, re-competition, and retraining costs, scaled to the size and complexity of individual requirements;<sup id="fnr6"><a href="#fn6">6</a></sup> 
+  b) Conduct definitive technical, cost, and risk analyses of alternative design implementations, including consideration of the full lifecycle costs of products and services, including but not limited to planning, analysis, design, implementation, sustainment, maintenance, re-competition, and retraining costs, scaled to the size and complexity of individual requirements;<sup id="fnr6"><a href="#fn6">6</a></sup> 
   
   c) Consider existing Federal contract solutions available to meet agency needs to avoid duplicative investments;
   
-  d) Structure acquisitions for major IT investments into useful segments, with a narrow scope and appropriate duration, in order to reduce risk, promote flexibility and interoperability, increase accountability, and match mission need with current technology and market conditions;
+  d) Structure acquisitions for investments into useful segments, with a narrow scope and appropriate duration, in order to reduce risk, promote flexibility and interoperability, increase accountability, and match mission need with current technology and market conditions;
   
   e) To the extent practicable, award all contracts that include information resources within 180 days after the solicitation is issued and, if this deadline is not reached, consider the cancellation of the work related to the contract, and the asset(s) acquired should be delivered within 18 months after the award of the contract was issued (41 U.S.C. § 2308);
   
-  f) Ensure all acquisition strategies or acquisition plans (as described in FAR Part 7) or interagency agreements (such as those used to support purchases through another agency) that include IT are reviewed and approved by the agency CIO. The CIO shall consider the following factors when reviewing acquisition strategies and acquisition plans:
+  f) Ensure all acquisition strategies or acquisition plans (as described in FAR Part 7) or interagency agreements (such as those used to support purchases through another agency) that include information resurces are reviewed and approved by the agency CIO. The CIO shall consider the following factors when reviewing acquisition strategies and acquisition plans:
 
   i. Alignment with mission and program objectives in coordination with program leadership;
   
-  ii. Appropriateness with respect to the mission and business objectives supported by the IT strategic plan;
+  ii. Appropriateness with respect to the mission and business objectives supported by the CIO's strategic plan;
   
-  iii. Appropriateness of contract type for IT-related resources;
+  iii. Appropriateness of contract type for related information and technology resources;
   
-  iv. Appropriateness of IT-related portions of statement of needs or statement of work;
+  iv. Appropriateness of statement of needs or statement of work;
   
   v. Ability to deliver functionality in short increments; and
   
