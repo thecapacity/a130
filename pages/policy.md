@@ -246,7 +246,7 @@ Agencies shall:
   
   b) Developing other aids as necessary to assist the public in locating agency information including catalogs and directories, site maps, search functions, and other means.
 
-4) Agencies shall ensure that the public can appropriately use disseminated information by:
+4) Agencies shall ensure that the public can appropriately request and use available government  information by:
 
   a) Publishing information online in a machine-readable open format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications and is public, accessible, described, reusable, complete, and timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
   
