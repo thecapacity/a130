@@ -133,13 +133,13 @@ Agencies shall:
 
 Agencies are responsible for establishing a decision-making process that provides for analyzing, tracking, and evaluating risks, including information security and privacy and results of investments made by an agency for information systems and servies. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security and privacy risks, associated with the
 investments. Agencies shall designate investments according to relevant statute, regulations and guidance in OMB Circular A-11, and execute processes commensurate with the size, scope, duration, and delivery risk of the investment. The investment processes shall encompass planning, budgeting, procurement, management, delicery, protection, assessment, and decomissioning. For further guidance related to investment planning, refer to OMB Circular A-11, including the Capital Programming Guide. At a minimum, agencies shall ensure that:
-  a) All IT resources (see "Information Technology Resources" definition) are included in IT investment planning documents or artifacts;
+  a) All infomration and technology resources (see "Information Technology Resources" definition) are included in IT investment planning documents or artifacts;
   
-  b) Significant decisions related to major IT investments are supported by business cases with appropriate evidence;
+  b) Significant decisions related to infomration and technologyinvestments are supported by business cases with appropriate evidence;
   
-  c) All IT investments appropriately implement incremental development and modular approaches as defined in OMB guidance;
+  c) All investments appropriately implement and are consistent with modular approaches as defined in guidance, policy and law;
   
-  d) IT investments support and enable core mission and operational functions and processes related to the agency's missions and business requirements;
+  d) Investments support and enable core mission and operational functions and processes related to the agency's missions and business requirements;
   
   e) Decisions to improve, enhance, or modernize existing information technology investments or to develop new information technology investments are made only after conducting an alternatives analysis that includes both government-provided (internal, interagency, and intra-agency where applicable) and commercially available options and the most advantageous option to the government has been selected;
   
