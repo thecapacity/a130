@@ -64,7 +64,7 @@ In support of agency missions and business needs, and in coordination with progr
 
 2) Ensure that the CIO defines the development processes, milestones, review gates, and the overall policies for all strategy, business alignment, and investment planning, enterprise architecture, project management and reporting for information technology resources. The CIO should ensure that such processes and policies address IT resources appropriately. At a minimum, these processes and policies shall ensure:
 
-  a) The CIO certifies that IT systems are appropriately implementing incremental development;
+  a) The CIO certifies that IT systems are appropriately implementing improved development and delivery;
   
   b) IT resources across the portfolio use appropriate measurements to evaluate the cost variance, schedule variance, and overall performance of their activities as a part of portfolio-wide processes such as IT investment management, enterprise architecture, and other agency information technology or performance management processes. When an Earned Value Management System (EVMS) or other budgeting practices are used, the standard definitions of cost variance and schedule variance will be used to measure progress;<sup id="fnr5"><a href="#fn5">5</a></sup> 
   
