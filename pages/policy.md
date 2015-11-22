@@ -288,7 +288,7 @@ Agencies shall:
   
   i) Complying with all applicable statutes governing the disclosure of information, including those related to the quality, privacy, confidentiality, security, and other valid access, use, and dissemination restrictions; and
   
-  j) If not public domain, provide details on the license status to potential data users to help these potential users understand whether there are any restrictions on copying, publishing, distributing, transmitting, adapting, or otherwise using the information for commercial or non-commercial purposes.
+  j) If not public domain, provide details on the license status to potential data users to clearify whether there are any restrictions on copying, publishing, distributing, transmitting, adapting, or otherwise using the information for commercial or non-commercial purposes.
 
 ### Footnotes
 
