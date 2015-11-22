@@ -154,7 +154,7 @@ investments. Agencies shall designate investments according to relevant statute,
   
   i) Information systems security levels are commensurate with the impact that may result from unauthorized access, use, disclosure, disruption, modification, or destruction of such information consistent with NIST 800-series guidelines;
   
-  j) Information systems should be built in a way that maximizes interoperability and in a manner that provides access to information through documented, scalable, and continuously available application programming interfaces (APIs). Agencies should maintain data asset inventories, and provide for active and inactive data governance within the agency with attention focused on maintaining appropriate information safeguards;
+  j) Information systems should be built in a way that maximizes interoperability and in a manner that provides access to information through documented, scalable, and continuously available application programming interfaces (APIs), as well as open (nonproprietary) and machine readable standards and formats. Agencies should maintain data asset inventories, and provide for active and inactive data governance within the agency with attention focused on maintaining appropriate information safeguards;
   
   k) Information technology investments must facilitate interoperability, application portability, and scalability across networks of heterogeneous hardware, software, and telecommunications platforms;
   
