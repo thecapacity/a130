@@ -72,7 +72,7 @@ In support of agency missions and business needs, and in coordination with progr
   
   d) Data and information needs are met through agency-wide data governance policies that clearly establish the roles, responsibilities, and processes by which agency personnel manage information as an asset and the relationships between technology, data, and agency programs, strategies, and business objectives; and
   
-  e) All IT systems and services operate only vendor-supported solutions, and planning and budgeting activities incorporate migration planning and resourcing to accomplish this requirement.
+  e) All information resource systems and services operate only vendor-supported solutions, and planning and budgeting activities incorporate migration planning and resourcing to accomplish this requirement.
 
 3) Ensure the CIO is a member of governance boards that inform investment decisions that include an IT component, including bureau Investment Review Boards (IRBs) to ensure early matching of appropriate IT with program objectives. The CIO may, in consultation with other senior agency officials, designate other agency officials to act as his or her representative to fulfill aspects of this responsibility in a rules-based manner - such as by a dollar threshold, type of planned IT activity, or by bureau - so long as the CIO retains accountability for the responsibility.
 
