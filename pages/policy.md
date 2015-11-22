@@ -163,7 +163,7 @@ investments. Agencies shall designate investments according to relevant statute,
 
   m) Information systems and processes must facilitate accessibility under the Rehabilitation Act of 1973, as amended; in particular, see specific electronic and information technology accessibility requirements commonly known as "section 508" requirements (29 U.S.C. § 794d);
   
-  n) Records management functions and retention requirements are incorporated into the design, development, and implementation of information systems, particularly Internet resources to include storage solutions and cloud-based services such as software as a service, platform as a service, and infrastructure as a service; and
+  n) Records management functions and retention requirements are incorporated into the design, development, implementation, and operation of information systems, particularly Internet resources to include storage solutions and cloud-based services such as software as a service, platform as a service, and infrastructure as a service; and
   
   o) Investments use an EVMS and Integrated Baseline Review (IBR), when appropriate, as required by Federal Acquisition Regulation Subpart 34.2 or, when an EVMS is not required, implement a baseline validation process as part of an overall investment risk management strategy consistent with OMB guidance.
 
