@@ -172,7 +172,7 @@ Although this section includes requirements for protecting Federal information r
 
 **1) Privacy**
 
-To ensure proper safeguards, agencies shall:
+To promote proper safeguards, agencies shall:
 
  a) Designate a senior agency official for privacy (SAOP) who has overall agency-wide responsibility and accountability for developing, implementing, and maintaining an agency-wide governance and privacy program to ensure compliance with all applicable statutes, regulations, and policies regarding the collection, use maintenance, dissemination, and disposal of PII by programs and information systems;
  
