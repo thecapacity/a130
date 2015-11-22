@@ -66,17 +66,18 @@ In support of agency missions and business needs, and in coordination with progr
 
 2) Ensure that the CIO defines the development processes, milestones, review gates, and the overall policies for all strategy, business alignment, and investment planning, enterprise architecture, project management and reporting for information technology resources. The CIO should ensure that such processes and policies address IT resources appropriately. At a minimum, these processes and policies shall ensure:
 
-  a) The CIO certifies that IT systems are appropriately implementing incremental development;
+  a) The CIO certifies that IT systems are appropriately implementing improved development;
   
-  b) IT resources across the portfolio use appropriate measurements to evaluate the cost variance, schedule variance, and overall performance of their activities as a part of portfolio-wide processes such as IT investment management, enterprise architecture, and other agency information technology or performance management processes. When an Earned Value Management System (EVMS) or other budgeting practices are used, the standard definitions of cost variance and schedule variance will be used to measure progress;<sup id="fnr5"><a href="#fn5">5</a></sup> 
+  b) IT resources across the portfolio use appropriate measurements to evaluate the cost variance, schedule variance, and overall performance of their activities as a part of portfolio-wide processes such as IT investment management, enterprise architecture, and other agency information technology or performance management processes. When an Earned Value Management System (EVMS) or other budgeting practices are used, standard definitions of cost variance and schedule variance
+  should be used to measure progress;<sup id="fnr5"><a href="#fn5">5</a></sup> 
   
   c) There are agency-wide policies and procedures for conducting investment reviews, operational analyses, or other applicable performance reviews to evaluate IT resources, including projects in development and ongoing activities;
   
-  d) Data and information needs are met through agency-wide data governance policies which clearly establish the roles, responsibilities, and processes by which agency personnel manage information as an asset and the relationships between IT strategy, data strategy, and agency programs and business objectives; and
+  d) Data and information needs are met through agency-wide data governance policies that clearly establish the roles, responsibilities, and processes by which agency personnel manage information as an asset and the relationships between IT strategy, data strategy, and agency programs and business objectives; and
   
   e) All IT systems and services operate only vendor-supported solutions, and planning and budgeting activities incorporate migration planning and resourcing to accomplish this requirement.
 
-3) Ensure the CIO is a member of governance boards that inform investment decisions that include an IT component, including bureau Investment Review Boards (IRBs) to ensure early matching of appropriate IT with program objectives. The CIO may, in consultation with other senior agency officials, designate other agency officials to act as his or her representative to fulfill aspects of this responsibility in a rules-based manner - such as by a dollar threshold, type of planned IT activity, or by bureau - so long as the CIO retains accountability for the responsibility.
+3) Ensure the CIO is a member of governance boards that inform investment decisions, including to ensure early matching of appropriate information and technology resources with program objectives. The CIO may, in consultation with other senior agency officials, designate other agency officials to act as his or her representative to fulfill aspects of this responsibility in a rules-based manner - such as by a dollar threshold, type of planned activity, or by component/bureau - so long as the CIO retains accountability for the responsibility.
 
 4) Ensure the CIO conducts TechStat reviews or uses other applicable performance measurements to evaluate the use of agency IT resources. The CIO may recommend to the agency head the modification, pause, or termination of any acquisition, investment, or activity that includes a significant IT component based on the CIO's evaluation, within the terms of the relevant contracts and applicable regulations.
 
