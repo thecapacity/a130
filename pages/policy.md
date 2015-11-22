@@ -79,7 +79,7 @@ or by bureau - so long as the CIO retains final accountability and authority for
 
 4) Ensure the CIO conducts TechStat, PortfolioStat, or other similarly focused reviews and applicable performance measurements to evaluate the use and effectiveness of agency information resources. The CIO may recommend to the agency head the modification, pause, or termination of any acquisition, investment, or activity based on the CIO's evaluation, within the terms of the relevant contracts and applicable regulations.
 
-5) Ensure that the CIO establishes and maintains a process to regularly engage with program managers to evaluate IT resources supporting each agency strategic objective. It should be the CIO and program managers' shared responsibility to ensure that legacy and on-going IT investments are appropriately delivering customer value and meeting the business objectives of programs.
+5) Ensure that the CIO establishes and maintains a process to regularly engage with program managers to evaluate IT resources supporting each agency strategic objective. It should be the CIO and program managers' shared responsibility to ensure that legacy and on-going IT investments are appropriately delivering customer value and meeting the business objectives of programs and continue to meet evolving trust and resiliency goals..
 
 #### c. Leadership and Workforce
 
