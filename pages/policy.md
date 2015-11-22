@@ -40,23 +40,23 @@ Agencies shall, in accordance with FITARA and related OMB policy:
 
   a) Ensure that information technology resources are distinctly identified and separated from non-information technology resources during the planning, programming, and budgeting process in a manner that affords agency CIOs appropriate visibility and specificity to provide effective management and oversight of information technology resources. The manner should be jointly determined by Program leadership, the Chief Financial Officer (CFO) and Chief Information Officer (CIO).
   
-  b) Ensure the agency-wide budget development process includes the CFO, Chief Acquisition Officer (CAO), and CIO in the planning, programming, and budgeting stages for programs that include IT resources (not just programs that are primarily IT oriented). The agency head, in consultation with the CFO, CIO, and program leadership, shall define the processes by which program leadership works with the CIO to plan an overall portfolio of IT resources that achieve program and business objectives efficiently and effectively by:
+  b) Ensure the agency-wide budget development process includes the CFO, Chief Acquisition Officer (CAO), and CIO in the planning, programming, and budgeting stages for programs that include IT resources (not just programs that are primarily information and technology oriented). The agency head, in consultation with the CFO, CIO, and program leadership, shall define the processes by which program leadership works with the CIO to plan an overall portfolio of information resources that achieve program and business objectives efficiently and effectively by:
 
   i. Weighing potential and ongoing investments and their underlying capabilities against other proposed and ongoing investments in the portfolio; and 
   
   ii.Identifying gaps between planned and actual cost, schedule, and performance goals for IT investments and identifying strategies and time frames to close such gaps.
 
-  c) Ensure the CIO approves the IT components of any plans, through a process defined by the agency head that balances IT investments with other uses of agency funding. Agencies shall also ensure the CIO is included in the internal planning processes for how the agency uses IT resources to achieve its objectives at all points in their lifecycle, including operations and disposition or migration.
+  c) Ensure the CIO approves the IT components of any plans, through a process defined by the agency head that balances IT investments with other uses of agency funding. Agencies shall also ensure the CIO is included in the internal planning processes for how the agency uses information resources to achieve its objectives at all points in their lifecycle, including operations and disposition or migration.
 
   d) Ensure that agency budget justification materials, in their initial budget submission to OMB, include a statement that affirms:
   
-  i.The CIO has reviewed and approves the major IT investments portion of the budget request;
+  i.The CIO has reviewed and approves information resource investments portion of the budget request;
   
-  ii.The CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
+  ii.The CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned technology resource management support for major program objectives and significant increases and decreases in information resources; and
   
-  iii.The IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
+  iii.The IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all information resource assets included in the budget request.
 
-  e) Ensure the CFO, CAO, and CIO define agency-wide policy for the level of detail of planned expenditure reporting for all transactions that include IT resources.
+  e) Ensure the CFO, CAO, and CIO define agency-wide policy for the level of detail of planned expenditure reporting for all transactions that include information resources.
 
 #### b. Governance
 
