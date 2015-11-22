@@ -150,7 +150,7 @@ investments. Agencies shall designate investments according to relevant statute,
   considers factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support, analysis of overall cost-effectiveness of the solution throughout the life cycle, the ability to meet acceptable levels of security, and the ability to meet specific and high-priority mission or operational requirements. To the degree possible, any custom software development activity or custom software acquisition should include contractual
   rights for re-use throughout the Federal government, to potentially leverage and include public open source licensing;
   
-  h) Information technology needs are met through acquiring scalable, provisioned IT services<sup id="fnr7"><a href="#fn7">7</a></sup> when it is cost-effective to do so rather than the agency developing its own information system or equipment;
+  h) Information technology needs are met through acquiring scalable, provisioned IT services<sup id="fnr7"><a href="#fn7">7</a></sup> when it is cost-effective to do so rather than the agency developing its own information system or service;
   
   i) Information systems security levels are commensurate with the impact that may result from unauthorized access, use, disclosure, disruption, modification, or destruction of such information consistent with NIST 800-series guidelines;
   
