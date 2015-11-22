@@ -194,7 +194,7 @@ To promote proper safeguards, agencies shall:
 
 To ensure proper safeguards, agencies shall:
 
- a) Ensure the CIO designates a senior agency information security officer to develop and maintain an agency-wide information security program in accordance with the Federal Information Security Modernization Act of 2014;
+ a) Ensure the CIO designates a senior agency information security officer (SAISO) to develop and maintain an agency-wide information security program in accordance with the Federal Information Security Modernization Act of 2014;
  
  b) Ensure that information is protected commensurate with the risk that would result from unauthorized access, use, disclosure, disruption, modification, or destruction of such information;
  
