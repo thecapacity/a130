@@ -92,7 +92,7 @@ Agencies shall:
   
   c) Recruit and retain the IT talent needed to accomplish the mission.
 
-2) Ensure the workforce related to acquiring, managing, maintaining, and using information resources has the appropriate knowledge and skill for facilitating the achievement of the performance goals established for the portfolio and evaluate the extent to which the executive-level workforce of the agency has appropriate information and technology related knowledge and skills.
+2) Ensure the workforce related to acquiring, managing, maintaining, and using information resources has the appropriate knowledge and skill for facilitating the achievement of the performance goals established for the portfolio and evaluate the extent to which the workforce of the agency has appropriate information and technology related knowledge and skills.
 
 3) Ensure the Chief Human Capital Officer (CHCO) and CIO jointly establish an agency-wide critical element (or elements) to be included in all bureau CIOs' performance evaluations. In addition, the CIO shall identify "key bureau CIOs" and provide input to the rating official for at least all "key bureau CIOs" at the time of the initial summary rating and for any required progress reviews. The rating official will consider the input from the CIO when determining the initial summary rating and discuss it with the bureau CIO during progress reviews.
 
