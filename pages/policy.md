@@ -28,7 +28,7 @@ to mission needs, priorities, or goals. As part of the planning and maintenance 
   
   e) Ensuring that all resources planning and management activities consider risks to information security, privacy, civil liberties, and supply chain security throughout the system life cycle and that those associated risks are appropriately managed; and
   
-  f) Ensuring that CIOs are made aware of information systems and components that cannot be appropriately protected or secured and that such systems are given a high priority for upgrade, replacement, or retirement.<sup id="fnr3"><a href="#fn3">3</a></sup> 
+  f) Ensuring that CIOs are made aware of information systems and services that cannot be appropriately protected or secured and that such systems are given a high priority for mitigations, upgrades, replacement or retirement.<sup id="fnr3"><a href="#fn3">3</a></sup> 
 
 **2) Business Continuity Planning**
 
