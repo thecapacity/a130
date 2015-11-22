@@ -186,7 +186,7 @@ To promote proper safeguards, agencies shall:
  
  f) Ensure that all records with personally identifiable information are maintained in accordance with applicable records retention or disposition schedules approved by the National Archives and Records Administration;
  
- g) Conduct privacy impact assessments when developing, procuring, or using information technology, in accordance with the E-Government Act,<sup id="fnr10"><a href="#fn10">10</a></sup> and make the assessments available to the public in accordance with OMB policy; and
+ g) Conduct privacy impact assessments when developing, procuring, or using information technology, in accordance with the E-Government Act,<sup id="fnr10"><a href="#fn10">10</a></sup> and make the assessments available to the public in accordance with OMB and other Federal policy; and
  
  h) Maintain and post privacy policies on all agency websites, in accordance with OMB policy.
 
