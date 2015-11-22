@@ -290,6 +290,8 @@ Agencies shall:
   
   j) If not public domain, provide details on the license status to potential data users to clearify whether there are any restrictions on copying, publishing, distributing, transmitting, adapting, or otherwise using the information for commercial or non-commercial purposes.
 
+  k) Utilize open formats and public standards, vs. proprietary technologis and license-restricted packaging, to ensure the broadest dissemination and access and availability of information to the public.
+
 ### Footnotes
 
 <ul style="list-style-type:none">
