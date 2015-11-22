@@ -238,7 +238,7 @@ Agencies shall:
  
   ii. For all instances where new Federal information creation or collection does not fall squarely within the public domain as U.S. government work, agencies shall include appropriate provisions in contracts to meet objectives of open data while recognizing that contractors may have proprietary interests in such information, and that protection of such information may be necessary to encourage qualified contractors to participate in and apply innovative concepts to government programs.
   
-  b) Ensure that the public has timely and equitable online access to the agency's public information using a manner that is informed directly by public engagement and balanced against the costs of dissemination or accessibility improvements and demonstrate usefulness of the information.
+  b) Ensure that the public has timely and equitable online access to the agency's public information using a manner that is informed directly by public engagement and balanced against the costs of dissemination or accessibility improvements and demonstrate usefulness of the information, per the Digital Government Strategy and other mandates.
 
 3) Agencies shall ensure that the public can appropriately discover, and provide feedback about disseminated information and unreleased information by:
 
