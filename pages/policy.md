@@ -157,7 +157,7 @@ investments. Agencies shall designate investments according to relevant statute,
   j) Information systems should be built in a way that maximizes interoperability and in a manner that provides access to information through documented, scalable, and continuously available application programming interfaces (APIs), as well as open (nonproprietary) and machine readable standards and formats. Agencies should maintain data asset inventories, and provide for data and metadata governance within the agency with attention focused on maintaining appropriate information
   safeguards including accuracy and provenance of information;
   
-  k) Information technology investments must facilitate interoperability, application portability, and scalability across networks of heterogeneous hardware, software, and telecommunications platforms;
+  k) Information technology investments must facilitate interoperability, application portability, and scalability across networks of heterogeneous system, service and communications platforms;
   
   l) Information systems and processes must support interoperability and access to information, maximize the usefulness of information, minimize the burden on the public, and preserve the appropriate integrity, usability, availability, confidentiality, and disposition of information throughout the life cycle of the information.<sup id="fnr8"><a href="#fn8">8</a></sup> 
 
