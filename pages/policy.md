@@ -222,7 +222,7 @@ Agencies shall:
 
 #### h. Information Management and Access
 
-1) Agencies shall incorporate in planning, budgeting, governance, and other policies appropriate steps to ensure that:
+1) Agencies must continue to incorporate in planning, budgeting, governance, and other policies appropriate steps to ensure that:
 
  a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition; and
 
@@ -230,11 +230,11 @@ Agencies shall:
 
  c) Information is managed with clearly designated roles and responsibilities to promote effective and efficient design and operation of information resources management processes within their agency.
 
-2) Agencies shall use these practices to:
+2) Agencies must use these practices to:
 
  a) Collect or create information in a way that supports downstream interoperability among information systems and streamlines dissemination to the public, where appropriate, by:
  
-  i. Creating or collecting all new information electronically by default, in machine-readable open formats, using relevant data standards, that upon creation includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
+  i. Creating or collecting all new information electronically by default, in machine-readable open formats, using relevant data standards, that (upon creation and through continued maintenance) includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
  
   ii. For all instances where new Federal information creation or collection does not fall squarely within the public domain as U.S. government work, agencies shall include appropriate provisions in contracts to meet objectives of open data while recognizing that contractors may have proprietary interests in such information, and that protection of such information may be necessary to encourage qualified contractors to participate in and apply innovative concepts to government programs.
   
