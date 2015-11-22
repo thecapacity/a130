@@ -26,7 +26,7 @@ to mission needs, priorities, or goals. As part of the planning and maintenance 
   
   d) Ensuring the terms and conditions of contracts involving the processing, storage, access to, transmission, and destruction of Federal information are sufficient to enable agencies to meet their policy and legal requirements;
   
-  e) Ensuring that all resources planning and management activities consider information security, privacy, and supply chain security issues throughout the system development life cycle and that the risks associated with those issues are appropriately managed; and
+  e) Ensuring that all resources planning and management activities consider risks to information security, privacy, civil liberties, and supply chain security throughout the system life cycle and that those associated risks are appropriately managed; and
   
   f) Ensuring that CIOs are made aware of information systems and components that cannot be appropriately protected or secured and that such systems are given a high priority for upgrade, replacement, or retirement.<sup id="fnr3"><a href="#fn3">3</a></sup> 
 
