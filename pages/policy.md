@@ -113,7 +113,7 @@ Agencies shall:
   
   d) Structure acquisitions for major IT investments into useful segments, with a narrow scope and appropriate duration, in order to reduce risk, promote flexibility and interoperability, increase accountability, and match mission need with current technology and market conditions;
   
-  e) To the extent practicable, award all contracts which include IT within 180 days after the solicitation is issued and, if this deadline is not reached, consider the cancellation of the work related to the contract, and the IT acquired should be delivered within 18 months after the solicitation resulting in award of the contract was issued (41 U.S.C. § 2308);
+  e) To the extent practicable, award all contracts that include information resources within 180 days after the solicitation is issued and, if this deadline is not reached, consider the cancellation of the work related to the contract, and the asset(s) acquired should be delivered within 18 months after the award of the contract was issued (41 U.S.C. § 2308);
   
   f) Ensure all acquisition strategies or acquisition plans (as described in FAR Part 7) or interagency agreements (such as those used to support purchases through another agency) that include IT are reviewed and approved by the agency CIO. The CIO shall consider the following factors when reviewing acquisition strategies and acquisition plans:
 
