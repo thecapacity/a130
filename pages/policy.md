@@ -307,8 +307,6 @@ Agencies shall:
 
 <li id="fn6"><sup>6</sup> Other acquisition planning provisions are set forth in Federal Acquisition Regulation (FAR) subpart 7.1, Acquisition Plans, and subpart 10, Market Research.<a href="#fnr6">&#8617;</a></li>
 
-<li id="fn7"><sup>7</sup> Provisioned IT services are considered subcategories of Development, Modernization and Enhancement (DME) and Operations and Maintenance (O&M). Examples of Provisioned IT Services may include the purchase of E-Gov Line of Business from another Federal Agency, or the purchase of software-as-a-service (SaaS), platform as a Service (PaaS), infrastructure-as-a-service (IaaS) from a private service provider, or the purchase of shared services or cloud services. Provisioned IT Service excludes Software Licenses but includes both Intra and Inter Shared Services.<a href="#fnr7">&#8617;</a></li>
-
 <li id="fn8"><sup>8</sup> Pursuant to the Federal Information Security Modernization Act of 2014 (44 U.S.C. chapter 35); Federal Records Act of 1950, as amended, codified (44 U.S.C. chapters 21, 29, 31, 33); and the Paperwork Reduction Act (PRA) of 1980, as amended by the Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35).<a href="#fnr8">&#8617;</a></li>
 
 <li id="fn9"><sup>9</sup> Agencies should also consult OMB policies on privacy, and OMB Circular No. A-108, Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act.<a href="#fnr9">&#8617;</a></li>
