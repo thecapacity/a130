@@ -260,13 +260,13 @@ Agencies shall:
   
   ii. Where the agency collects, processes, and disseminates the information for the benefit of a specific identifiable group beyond the benefit to the general public;
   
-  iii. Where the agency plans to establish user charges at less than cost of dissemination because of a determination that higher charges would constitute a significant barrier to properly performing the agency's functions, including reaching members of the public whom the agency has a responsibility to inform; or
+  iii. Where the agency plans to establish charges at less than cost of dissemination because of a determination that higher charges would constitute a significant barrier to properly performing the agency's functions, including reaching members of the public whom the agency has a responsibility to inform; or
   
   iv. Where the Director of OMB determines an exception is warranted.
 
   e) Ensuring that government publications are made available to depository libraries through the Government Publishing Office.<sup id="fnr15"><a href="#fn15">15</a></sup> 
   
-  f) Taking advantage of all dissemination channels, including Federal, State, local, tribal, territorial governments, libraries, nonprofit, and private sector entities, in discharging agency information dissemination responsibilities.
+  f) Taking advantage of all dissemination channels, including Federal, State, local, tribal, territorial governments, libraries, nonprofit, and private sector entities, and digital delivery methods, in discharging agency information dissemination responsibilities.
 
 5) Agencies shall manage information in accordance with the following principles:
   
