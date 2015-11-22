@@ -254,7 +254,8 @@ Agencies shall:
   
   c) Avoid establishing unnecessary restrictions, including charging of fees or royalties, on the reuse, resale, or re-dissemination of Federal information by the public;<sup id="fnr14"><a href="#fn14">14</a></sup> 
   
-  d) Recovering only the cost of dissemination if fee and user charges are necessary. They must exclude from calculation the costs associated with original collection and processing of the information. Exceptions to this policy are:
+  d) Recovering only the cost of dissemination if fee and charges are necessary. Agencies must exclude from calculation of the recovery fee the costs associated with original collection and processing of the information. Exceptions to this policy are:
+
   i. Where statutory requirements are at variance with the policy;
   
   ii. Where the agency collects, processes, and disseminates the information for the benefit of a specific identifiable group beyond the benefit to the general public;
